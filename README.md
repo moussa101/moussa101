@@ -50,7 +50,7 @@
 ### 📫 **How to Reach Me:**  
 [✉️ Email Me](mailto:abdelrhmanmoussa21@gmail.com) | [🔗 LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
 
-
+---
 
 ## 🎯 Fun Fact  
 
@@ -67,6 +67,9 @@ I’m on a journey to grow as a developer, explore the intersections of creativi
 
 ---
 
-Hope you enjoy browsing my profile! Let’s connect, collaborate, and build something amazing together. 🤝🔥
+<div align="center">
+  
+ Hope you enjoy browsing my profile! Let’s connect, collaborate, and build something amazing together. 🤝🔥
 
+</div>
 
