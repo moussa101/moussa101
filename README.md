@@ -13,7 +13,7 @@
 
 ## 🛠️ Tools & Frameworks  
 
-- **🖥️ Tools:** Visual Studio Code, IntelliJ IDEA, CLion, Visual Studio  
+- **🖥️ Tools:** Visual Studio, IntelliJ IDEA, CLion, Github
 - **🔧 Frameworks:** ASP.NET, .NET Core  
 
 ---
