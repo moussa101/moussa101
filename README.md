@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome! 🎉 
+# Welcome!  🎉 
 
 </div>
 
@@ -9,14 +9,14 @@
 **2nd Year Computer Science Student @ GIU**  
 🌍 Living in Egypt | 🎓 Building the future one line of code at a time  
 
----
+
 
 ## 🛠️ Tools & Frameworks  
 
 - **🖥️ Tools:** Visual Studio, IntelliJ IDEA, CLion, Github
 - **🔧 Frameworks:** ASP.NET, .NET Core  
 
----
+
 
 ## 💼 Skills  
 
@@ -26,7 +26,7 @@
 ### 📊 Project Management  
 - Translating abstract ideas into clear, structured, and actionable objectives.  
 
----
+
 
 ## 🚀 What I'm Up To  
 
@@ -50,7 +50,7 @@
 ### 📫 **How to Reach Me:**  
 [✉️ Email Me](mailto:abdelrhmanmoussa21@gmail.com) | [🔗 LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
 
----
+
 
 ## 🎯 Fun Fact  
 
@@ -59,7 +59,7 @@ Did you know? 💻 80% of a programmer's time is spent debugging.
 The other 20% is spent wondering why the code they wrote yesterday makes absolutely no sense today. 🤷‍♂️😅
 
 
----
+
 
 ## 🌟 A Little About Me  
 
