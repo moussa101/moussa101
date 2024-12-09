@@ -48,7 +48,7 @@
 - Programming, college life, the latest tech trends, or even sharing the perfect coffee recipe.  
 
 ### 📫 **How to Reach Me:**  
-[✉️ Email Me](mailto:abdelrhmanmoussa21@gmail.com) | [🔗 LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
+✉️ Email: **abdelrhmanmoussa21@gmail.com** | [🔗 LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
 
 ---
 
