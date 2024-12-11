@@ -14,7 +14,7 @@
 ## 💼 Skills  
 
 ### 🖥️ Programming Languages
-- C++, Python, Java, T-SQL  
+- C++, Java, T-SQL  
 
 ### 📊 Project Management  
 - Translating abstract ideas into clear, structured, and actionable objectives.  
