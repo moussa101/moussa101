@@ -1,11 +1,8 @@
 <div align="center">
 
-# Welcome!  🎉 
+# Welcome to My Github!
 
 </div>
-
-
-
 
 ## 🛠️ Tools & Frameworks  
 
