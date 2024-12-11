@@ -69,7 +69,7 @@ I’m on a journey to grow as a developer, explore the intersections of creativi
 
 <div align="center">
   
- Hope you enjoy browsing my profile! Let’s connect, collaborate, and build something amazing together. 🤝🔥
+ Hope you enjoy browsing my profile! Let’s connect, collaborate, and build something amazing together. 
 
 </div>
 
