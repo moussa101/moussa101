@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to My Github!
+# Welcome to My Github! 🎉 
 
 </div>
 
@@ -49,14 +49,14 @@
 
 Did you know? 💻 80% of a programmer's time is spent debugging.
 
-The other 20% is spent wondering why the code they wrote yesterday makes absolutely no sense today. 🤷‍♂️😅
+The other 20% is spent wondering why the code they wrote yesterday makes absolutely no sense today. 😅
 
 
 
 
 ## 🌟 A Little About Me  
 
-I’m on a journey to grow as a developer, explore the intersections of creativity and logic, and discover the beauty of problem-solving through coding. Let’s innovate, learn, and build the future—one project at a time. 🚀✨  
+I’m on a journey to grow as a developer, explore the intersections of creativity and logic, and discover the beauty of problem-solving through coding. Let’s innovate, learn, and build the future—one project at a time. ✨  
 
 ---
 
