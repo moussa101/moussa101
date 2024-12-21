@@ -6,7 +6,7 @@
 
 ## 🛠️ Tools & Frameworks  
 
-- **🖥️ Tools:** Visual Studio, IntelliJ IDEA, CLion, Github
+- **🖥️ Tools:** Rider, IntelliJ IDEA, CLion, GoLand, Pycharm and  Github
 - **🔧 Frameworks:** ASP.NET, .NET Core  
 
 
@@ -29,7 +29,9 @@
 - 🎮 Memory Match Card Game (C++ OOP)  
 
 ### 🌱 **Currently Learning:**  
-- Data Structures, Operating Systems, and discovering the secret to staying awake during endless lectures.  
+- Data Structures, Operating Systems, and discovering the secret to staying awake during endless lectures.
+- GoLang
+- Python
 
 ### 👯 **Looking to Collaborate On:**  
 - Open-source projects, innovative solutions, and fun problem-solving with awesome people!  
