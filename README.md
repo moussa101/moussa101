@@ -25,7 +25,7 @@
 
 ### 🔭 **Currently Working On:**  
 - 🧠 MultiCore Processor Simulation (Java OOP & DSA)  
-- 📚 Educational Platform (C# MVC)  
+- 📚 Educational Platform (C# MVC) (CRUD)
 - 🎮 Memory Match Card Game (C++ OOP)  
 
 ### 🌱 **Currently Learning:**  
