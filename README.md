@@ -6,8 +6,8 @@
 
 ## 🛠️ Tools & Frameworks  
 
-- **🖥️ Tools:** Rider, IntelliJ IDEA, CLion, GoLand, Pycharm, and GitHub  
-- **🔧 Frameworks:** ASP.NET, .NET Core, MERN Stack  
+- **🖥️ Tools:** Rider, IntelliJ IDEA, CLion, GoLand, Pycharm, and GitHub 
+- **🔧 Frameworks:** ASP.NET, .NET Core, MERN Stack 
 
 ## 💼 Skills  
 
@@ -18,13 +18,12 @@
 
 ### 🌝 **Currently Working On:**  
 - 📚 Educational Platform (C# MVC) (CRUD)  
-- 🎮 Memory Match Card Game (C++ OOP)  
 - 🎟️ Event Ticketing System (MERN Stack)  
 - 🔐 Advanced Cryptography Ciphers  
 
 ### 🌱 **Currently Learning:**  
 - Introductions to Media, Cyber Security, Software Engineering, and Data Science.  
-- GoLang  
+- GoLang, JavaScript and React
 
 ### 👯 **Looking to Collaborate On:**  
 - Open-source projects, innovative solutions, and fun problem-solving with awesome people!  
@@ -33,7 +32,7 @@
 - Optimizing algorithms and surviving those 3 AM coding marathons.  
 
 ### 💬 **Ask Me About:**  
-- Programming, college life, the latest tech trends, or even sharing the perfect coffee recipe.  
+- Programming, the latest tech trends, or even sharing the perfect coffee recipe.  
 
 ### 📢 **How to Reach Me:**  
 ✉️ Email: **abdelrhmanmoussa21@gmail.com** | [🔗 LinkedIn Profile](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
