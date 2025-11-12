@@ -16,13 +16,7 @@
 
 ## 🚀 What I'm Up To  
 
-### 🌝 **Currently Working On:**  
-- 📚 Educational Platform (C# MVC) (CRUD)  
-- 🎟️ Event Ticketing System (MERN Stack)  
-- 🔐 Advanced Cryptography Ciphers  
-
 ### 🌱 **Currently Learning:**  
-- Introductions to Media, Cyber Security, Software Engineering, and Data Science.  
 - GoLang, JavaScript and React
 
 ### 👯 **Looking to Collaborate On:**  
