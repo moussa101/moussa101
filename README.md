@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I’m Abdelrhman Mostafa Moussa  
+# 👋 Hey, I’m Abdelrhman Mostafa Moussa  
 
-**Software Engineer | DevOps Enthusiast | Lifelong Learner**
+**Software Engineering Student | Network Explorer | Security Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
 [![Email](https://img.shields.io/badge/Email-abdelrhmanmoussa21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abdelrhmanmoussa21@gmail.com)
@@ -13,32 +13,33 @@
 
 ## 🧠 About Me  
 
-I’m passionate about **bridging development and operations** — building reliable systems, automating workflows, and learning how infrastructure scales in the real world.  
-My focus is shifting toward **DevOps and Cloud technologies**, exploring tools and philosophies that make engineering more efficient, resilient, and human-centered.  
+I’m a software engineering student passionate about how systems connect — from code to networks to security.  
+I enjoy exploring the deeper layers of technology: how data moves, how systems interact, and how everything stays secure.  
 
-I believe great software isn’t just about code — it’s about clarity, collaboration, and continuous improvement.  
-
----
-
-## What I’m Exploring  
-
-- ☁️ **Cloud Engineering & Infrastructure as Code**  
-- ⚙️ **CI/CD Pipelines & Automation**  
-- 🐳 **Containerization & Orchestration**  
-- 📈 **Monitoring, Scaling, and System Reliability**  
+I believe in writing code that’s not just functional, but understandable, scalable, and built with intent.  
 
 ---
 
-## Currently Learning  
+## 🔭 Interests  
 
-- DevOps fundamentals, cloud architecture, and automation tools.  
-- Balancing creativity with structure — how to make systems that grow gracefully.  
+- 🧩 **Software Design & Development** – turning ideas into structured, reliable solutions.  
+- 🌐 **Networking Fundamentals** – understanding how the internet really works (currently studying CCNA).  
+- 🛡️ **Cybersecurity Concepts** – exploring how systems can be hardened, protected, and tested.  
+- ⚡ **Automation & Scripting** – finding simple ways to make repetitive tasks vanish.  
+
+---
+
+## 🎓 Currently Focused On  
+
+- Strengthening my foundation in **networking and protocols (CCNA track)**.  
+- Building projects that combine **software + system-level thinking**.  
+- Learning more about **security best practices** in both development and deployment.  
 
 ---
 
 ## 💬 Let’s Connect  
 
-Whether you’re into cloud infrastructure, backend systems, or creative problem-solving — I’d love to exchange ideas, collaborate, or just chat about tech (and coffee ☕).  
+I’m always open to discussions about software, networking, or security — and I love learning from people who share their passion for tech.  
 
 📫 **Email:** [abdelrhmanmoussa21@gmail.com](mailto:abdelrhmanmoussa21@gmail.com)  
 🔗 **LinkedIn:** [Abdelrhman Moussa](https://www.linkedin.com/in/abdelrhman-moussa-360a2329b/)
@@ -47,8 +48,8 @@ Whether you’re into cloud infrastructure, backend systems, or creative problem
 
 <div align="center">
 
-> “Code fades. Systems evolve. Learning never stops.”  
+> “The best systems aren’t just built — they’re understood.”
 
-✨ Thanks for stopping by — let’s build something meaningful.  
+✨ Thanks for visiting — feel free to explore my projects or drop a message!
 
 </div>
