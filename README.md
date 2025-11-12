@@ -54,8 +54,7 @@ I’m always open to discussions about software, networking, or security — and
 <br>
 <span style="color:#00bcd4; font-weight:bold;">“The best systems aren’t just built — they’re understood.”</span>
 <br>
-<br>
-<br>
+
 
 
 
