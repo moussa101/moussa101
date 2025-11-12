@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I’m Abdelrhman Mostafa Moussa  
+#I’m Abdelrhman Mostafa Moussa  
 
 **Software Engineer | DevOps Enthusiast | Lifelong Learner**
 
