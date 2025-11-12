@@ -1,6 +1,6 @@
 <div align="center">
 
-# I’m Abdelrhman Mostafa Moussa  
+# Hey, I’m Abdelrhman Mostafa Moussa  
 
 **Software Engineer | DevOps Enthusiast | Lifelong Learner**
 
@@ -20,7 +20,7 @@ I believe great software isn’t just about code — it’s about clarity, colla
 
 ---
 
-## 🚀 What I’m Exploring  
+## What I’m Exploring  
 
 - ☁️ **Cloud Engineering & Infrastructure as Code**  
 - ⚙️ **CI/CD Pipelines & Automation**  
@@ -29,7 +29,7 @@ I believe great software isn’t just about code — it’s about clarity, colla
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning  
 
 - DevOps fundamentals, cloud architecture, and automation tools.  
 - Balancing creativity with structure — how to make systems that grow gracefully.  
