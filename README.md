@@ -11,7 +11,7 @@
 
 
 
-## 🧠 About Me  
+## About Me  
 
 I’m a software engineering student passionate about how systems connect — from code to networks to security.  
 I enjoy exploring the deeper layers of technology: how data moves, how systems interact, and how everything stays secure.  
@@ -22,10 +22,10 @@ I believe in writing code that’s not just functional, but understandable, scal
 
 ## 🔭 Interests  
 
-- 🧩 **Software Design & Development** – turning ideas into structured, reliable solutions.  
-- 🌐 **Networking Fundamentals** – understanding how the internet really works (currently studying CCNA).  
-- 🛡️ **Cybersecurity Concepts** – exploring how systems can be hardened, protected, and tested.  
-- ⚡ **Automation & Scripting** – finding simple ways to make repetitive tasks vanish.  
+- **Software Design & Development** – turning ideas into structured, reliable solutions.  
+- **Networking Fundamentals** – understanding how the internet really works (currently studying CCNA).  
+- **Cybersecurity Concepts** – exploring how systems can be hardened, protected, and tested.  
+- **Automation & Scripting** – finding simple ways to make repetitive tasks vanish.  
 
 
 
